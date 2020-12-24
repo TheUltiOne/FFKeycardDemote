@@ -1,13 +1,12 @@
-# SCPAnnouncement**
+# FFKeycardDemote
 
-Announces all the SCPs at the start of the game, and fully customizable!!
+Demotes your keycard if you TK, or kills you if you have none!
+Has two "keycard routes" to prevent downgrading to a better keycard!
 
-## Default CASSIE Message config:
-**Attention all personnel detected %scpcount SCP Subjects %scps**
+For example:
+**Person A** kills **Person B** as **friendly fire**. **Person A**'s keycard was a Guard Keycard, but it won't demote to a Major Scientist as that could be an upgrade!
+**Person B** takes his revenge and kills **Person A** by Friendly Fire, when he has Cadet Keycard. It won't demote to a Containment Specialist, but Scientist Keycard. 
 
-For example, in a game this would be a possibility:
-**Attention all personnel detected 5 SCP Subjects SCP-106 SCP-096 SCP-939-83 SCP-079 SCP-049**
-
-You can remove %scps or %scpcount so for example it could only announce the number of SCPs!
+**All routes are configurable!**
 
 ***__UNTESTED__***
